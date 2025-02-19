@@ -1,5 +1,8 @@
-# Hey 👋🏽, I'm CHERUTHAN REDDY DARMA!  
-
+<h1>
+  <a href="https://cheruthanreddy.github.io/PORTFOLIO/" target="_blank" style="text-decoration: none; color: inherit;">
+    Hey 👋🏽, I'm CHERUTHAN REDDY DARMA!
+  </a>
+</h1>
 <p align="left">
   <a href="https://www.linkedin.com/in/cheruthan-reddy-3174872b5/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50"/>
